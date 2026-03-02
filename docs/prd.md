@@ -1,7 +1,3 @@
-제시해주신 요구사항을 바탕으로 작성한 콘서트 예약 플랫폼 PRD입니다.
-
----
-
 # 제품 요구사항 정의서 (PRD)
 **Project Name:** No-Login Concert Reservation Platform
 **Version:** 1.0
